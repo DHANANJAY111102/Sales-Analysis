@@ -1,6 +1,6 @@
-# Sales-Analysis
+# 📈 Sales-Analysis
 
-## Project Summary
+## 📄 Project Summary
 
 This project centers on **exploratory data analysis (EDA)** and data visualization to uncover meaningful insights from sales data.
 
@@ -73,12 +73,11 @@ Identified the **top three states** based on total order volume.
 Analyzed which **occupational groups** contribute the highest revenue.
 
 ### 6. Average Order Value (AOV) Analysis
-AOV = Total Revenue ÷ Total orders 
+AOV = Total Revenue ÷ Total orders.
 Top-performing states included:
 - **Uttar Pradesh**
 - **Maharashtra**
 - **Karnataka**
-
 
 ### 7. Product Category Contribution
 Visualized the **top four** product categories contributing to total sales using a pie chart.
@@ -94,7 +93,7 @@ Visualized the **top four** product categories contributing to total sales using
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 - **Programming Language**: Python 
 - **Libraries:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
 - **Tools**: **Jupyter Notebook**  
