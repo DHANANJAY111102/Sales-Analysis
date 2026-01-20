@@ -3,12 +3,14 @@
 ## Project Summary
 
 This project centers on **exploratory data analysis (EDA)** and data visualization to uncover meaningful insights from sales data.
+
 The goal is to analyze customer demographics, purchasing behavior, and regional performance to support data-driven business decisions.
+
 Through systematic data cleaning, aggregation, and visualization, the project highlights key revenue drivers and customer segments that contribute most to overall sales performance.
 
 
 ## 🎯 Objectives
-- Clean and preprocess raw sales data to ensure analytical accuracy
+- Clean and preprocess raw sales data to ensure analytical accuracy.
 - Analyze sales performance across:
   - Age Groups
   - Gender    
