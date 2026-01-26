@@ -89,7 +89,7 @@ Visualized the **top four** product categories contributing to total sales using
 - **Female customers** demonstrate slightly higher purchasing activity than males   
 - **Married customers** exhibit higher average spending behavior  
 - **Uttar Pradesh**, **Maharashtra**, and **Karnataka** lead in both revenue and order volume
-- **Healthcare** and **Automobile** categories are the most profitable
+- **IT Sector** and **Healthcare** categories are the most profitable
 
 ---
 
