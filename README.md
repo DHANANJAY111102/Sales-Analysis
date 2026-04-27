@@ -72,14 +72,7 @@ Identified the **top three states** based on total order volume.
 ### 5. Revenue by Occupation
 Analyzed which **occupational groups** contribute the highest revenue.
 
-### 6. Average Order Value (AOV) Analysis
-AOV = Total Revenue ÷ Total orders.
-Top-performing states included:
-- **Uttar Pradesh**
-- **Maharashtra**
-- **Karnataka**
-
-### 7. Product Category Contribution
+### 6. Product Category Contribution
 Visualized the **top four** product categories contributing to total sales using a pie chart.
 
 ---
